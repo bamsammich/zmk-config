@@ -20,7 +20,7 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: eternal_dongle
+    shield: eternaldongle
   - board: nice_nano_v2
     shield: settings_reset
   - board: nice_nano_v2
